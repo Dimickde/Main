@@ -3,4 +3,5 @@
 <file name="index.php" server="mainserv.local//var/www/html/git_repo/" local="131427045227936484" remote="131427045000000000" Dst="2" />
 <file name="README.md" server="mainserv.local//var/www/html/git_repo/" local="131427036384043594" remote="131427045000000000" Dst="2" />
 <file name="test.php" server="mainserv.local//var/www/html/git_repo/" local="131426484013415425" remote="131427045000000000" Dst="2" />
+<file name="AnotherFile.php" server="mainserv.local//var/www/html/git_repo/" local="131433927320000000" remote="131433927600000000" Dst="2" />
 </dwsync>
